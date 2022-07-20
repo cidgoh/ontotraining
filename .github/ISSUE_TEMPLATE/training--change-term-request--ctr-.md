@@ -2,7 +2,7 @@
 name: 'Training: Change Term Request (CTR)'
 about: An issue template for trainees to submit change requests for ontology terms.
 title: 'CTR: [term label]'
-labels: change term request, new term request, training
+labels: change term request, training
 assignees: ''
 
 ---
