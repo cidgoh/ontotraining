@@ -9,7 +9,7 @@ assignees: ''
 
 ### New Term Request (NTR)
 
-_Please fill in the appropriate fields with the desired information and delete unused fields. You may request multiple terms in a single issue - delete annotation fields that are irrelevant to your request. We cannot guarantee requests will be taken exactly as specified, changes may be made at the discretion of the curator._
+_Please fill in the appropriate fields with the desired information and delete unused fields. You may request multiple terms in a single issue. We cannot guarantee requests will be taken exactly as specified, changes may be made at the discretion of the curator._
 
 ## [Term Label] [Term ID]
 **Ontology:** 
