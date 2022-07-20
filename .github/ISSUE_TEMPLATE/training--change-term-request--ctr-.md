@@ -22,7 +22,7 @@ _If requesting the addition of annotation(s), please fill in the appropriate fie
 **Definition Source:**
 **Database Cross Reference:**
 
-**Additional Comments (not an annotation):** {YOUR TEXT HERE - OTHERWISE DELETE}
+**Additional Comments (not an annotation):** _{YOUR TEXT HERE - OTHERWISE DELETE}_
 
 --- 
 **Contributor Attribution:** _{Optional. [ORCiD](https://orcid.org/) is preferred - this is so we can list you as a contributor [[dc:contributor](http://purl.org/dc/elements/1.1/contributor)].}_
