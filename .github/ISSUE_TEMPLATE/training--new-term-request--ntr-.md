@@ -11,10 +11,11 @@ assignees: ''
 
 _Please fill in the appropriate fields with the desired information and delete unused fields. You may request multiple terms in a single issue. We cannot guarantee requests will be taken exactly as specified, changes may be made at the discretion of the curator._
 
-## [Term Label] [Term ID]
+## [Term Label]
 **Ontology:** 
 
 **Parent Class:**
+**Parent Class ID:**
 
 **Alternative Label:**
 **Exact Synonym:**
@@ -33,10 +34,10 @@ _Please fill in the appropriate fields with the desired information and delete u
 ### _Annotation Guide:_
 
 **Term Label:** _An [rdfs:label](https://www.w3.org/TR/rdf-schema/#ch_label) that provides a a human-readable description of a resource._
-**Term ID**: _An ontology IRI (e.g., FOODON:00001002) or the PURL (e.g., http://purl.obolibrary.org/obo/FOODON_00001002)._
 **Ontology:** _The ontology the term is being requested for - e.g., GenEpiO, FoodOn, ENVO, OBI... This guide is not an exact match for a term request at a specific [OBO Foundry ontology](https://obofoundry.org/), but will give you useful guidance and practice for common annotations._
 
 **Parent Class:** _The class/term within the target ontology under which you think the term being request should placed. Depending on the ontology you are requesting this in, it isn't strictly required - but it is helpful in facilitating curation efficiency and in giving the curator a better impression of the term you're requesting._
+**Parent Class ID**: _An ontology IRI (e.g., FOODON:00001002) or the PURL (e.g., http://purl.obolibrary.org/obo/FOODON_00001002) associated with the parent class/term._
 
 **Alternative Label:** _"A label for a class or property that can be used to refer to the class or property instead of the preferred rdfs:label. Alternative labels should be used to indicate community- or context-specific labels, abbreviations, shorthand forms and the like." [[IAO:0000118](http://purl.obolibrary.org/obo/IAO_0000118)]_
 **Exact Synonym:** _"An alternative label for a class or property which has the exact same meaning than the preferred name/primary label." [[hasExactSynonym](http://www.geneontology.org/formats/oboInOwl#hasExactSynonym)]_
