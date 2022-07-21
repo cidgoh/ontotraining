@@ -33,7 +33,7 @@ _Please fill in the appropriate fields with the desired information and delete u
 --- 
 ### _Annotation Guide:_
 
-**Term Label:** _An [rdfs:label](https://www.w3.org/TR/rdf-schema/#ch_label) that provides a a human-readable description of a resource._
+**Term Label:** _An [rdfs:label](https://www.w3.org/TR/rdf-schema/#ch_label) that provides a human-readable description of a resource._
 **Ontology:** _The ontology the term is being requested for - e.g., GenEpiO, FoodOn, ENVO, OBI... This guide is not an exact match for a term request at a specific [OBO Foundry ontology](https://obofoundry.org/), but will give you useful guidance and practice for common annotations._
 
 **Parent Class:** _The class/term within the target ontology under which you think the term being request should be placed. Depending on the ontology you are requesting this in, it isn't strictly required - but it is helpful in facilitating curation efficiency and in giving the curator a better impression of the term you're requesting. There can be multiple parent classes/terms for an ontology term._

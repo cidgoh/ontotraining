@@ -30,7 +30,7 @@ _If requesting the addition of annotation(s), please fill in the appropriate fie
 --- 
 ### _Annotation Guide:_
 
-**Term Label:** _An [rdfs:label](https://www.w3.org/TR/rdf-schema/#ch_label) that provides a a human-readable description of a resource._
+**Term Label:** _An [rdfs:label](https://www.w3.org/TR/rdf-schema/#ch_label) that provides a human-readable description of a resource._
 **Term ID**: _An ontology IRI (e.g., FOODON:00001002) or the PURL (e.g., http://purl.obolibrary.org/obo/FOODON_00001002)._
 **Ontology:** _The ontology the term is being requested for - e.g., GenEpiO, FoodOn, ENVO, OBI... This guide is not an exact match for a term request at a specific [OBO Foundry ontology](https://obofoundry.org/), but will give you useful guidance and practice for common annotations._
 
