@@ -1,6 +1,6 @@
 ---
 name: 'Training: New Term Request (NTR)'
-about: Describe this issue template's purpose here.
+about: An issue template for trainees to submit requests for new ontology terms.
 title: 'NTR: [term label]'
 labels: new term request, training
 assignees: ''
