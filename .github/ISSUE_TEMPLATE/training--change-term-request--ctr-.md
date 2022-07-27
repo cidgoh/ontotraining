@@ -15,9 +15,7 @@ Term Label:
 Term ID:
 
 Alternative Label:
-Exact Synonym:
-Narrow Synonym:
-Broad Synonym:
+Synonym:
 Definition:
 Definition Source:
 Database Cross Reference:
